@@ -6,5 +6,5 @@ TS Theme Park用のテクスチャパック配布場所です
 
 https://github.com/a-co-jp/TS_Pack/releases
  
- 公開がプレリリースの場合はβ(ベータ)版です。
+ 公開がPre-release(プレリリース)の場合はβ版です。
  バグなどがある可能性があります。
